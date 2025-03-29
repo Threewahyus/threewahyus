@@ -8,6 +8,7 @@
 I am from Universitas Negeri Surabaya taking Chemistry Education. 📚
 
 I have a huge interest in web developer 🧑‍💻 as well coding💻! Currently studying HTML 🏗️, CSS 🎨, and JavaScript ⚡, aiming to become a web developer 💻🚀.
+🎓 Part of the Front-End & Back-End Developer Cohort at Coding Camp DBS Foundation 2025.
 
 I love to join different community and competition that involve creating something for the society! 🙋‍♀️
 
